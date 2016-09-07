@@ -4,6 +4,8 @@ import util
 # 
 # Write a function called `matrix_multiply` which multiplies two 2-dimensional lists of real numbers. For instance,
 
+##  TESTING ##
+
 mm = util.matrix_multiply([[1, 2], [3, 4]], [[4, 3], [2, 1]]) 
 # should evaluate to
 assert(mm == [[8, 5], [20, 13]])
